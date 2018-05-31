@@ -1,0 +1,8 @@
+GAME DESIGN DOCUMENT
+	CONCEPT RULES REQUIREMENTS
+
+CONCEPT: Simple tank battle in an open-world environment, using terrain for advantage.
+
+RULES: You can move anywhere in the terrain. Last player standing wins. Each player starts with finite health and ammunition. 
+
+REQUIREMENTS: Sounds FX, Static Meshes, Textures, Music
